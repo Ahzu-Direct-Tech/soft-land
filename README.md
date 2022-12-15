@@ -1,4 +1,4 @@
-#Soft Land Bootstrap + Next JS Theme
+##Soft Land Bootstrap + Next JS Theme
 SoftLand is a modern and creative app landing HTML website template. Anyone can use this template to showcase their apps or services. SoftLand is an ultimate responsive landing page template for anyone who is looking for app landing page, software landing page, app showcase, app store page template etc.
 
 You can use SoftLand as a better way to present and promote your startup mobile apps, SaaS app, software, digital products, even books or magazines.
