@@ -1,8 +1,18 @@
-#Soft Land Bootstrap + Next JS Theme
-SoftLand is a modern and creative app landing HTML website template. Anyone can use this template to showcase their apps or services. SoftLand is an ultimate responsive landing page template for anyone who is looking for app landing page, software landing page, app showcase, app store page template etc.
+# Soft Land Bootstrap + Next JS Theme
 
-You can use SoftLand as a better way to present and promote your startup mobile apps, SaaS app, software, digital products, even books or magazines.
+[SoftLand](https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/) is a modern and creative app landing HTML website template. Anyone can use this template to showcase their apps or services. SoftLand is an ultimate responsive landing page template for anyone who is looking for app landing page, software landing page, app showcase, app store page template etc.
 
-SoftLand is created with the latest version of Bootstap. 100% responsive design and is beautifully displayed on all devices. All the files are clearly organized and it's easy to use and edit them for your needs.
+You can use [SoftLand](https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/) as a better way to present and promote your startup mobile apps, SaaS app, software, digital products, even books or magazines.
 
-https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/
+[SoftLand](https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/) is created with the latest version of Bootstap. 100% responsive design and is beautifully displayed on all devices. All the files are clearly organized and it's easy to use and edit them for your needs.
+
+## Installation
+Clone the repo, CD into the folder and run the following command:
+`yarn install`
+or 
+`npm install`
+
+Note:
+> The testimonial section has been removed due to an error that I have not been able to fix. If you would like to help us solve this problem and become a contributor, please do so. 
+>
+> 
