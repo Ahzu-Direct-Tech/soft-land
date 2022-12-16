@@ -12,4 +12,8 @@ Clone the repo, CD into the folder and run the following command:
 or 
 `npm install`
 
+Note:
+> The testimonial section has been removed due to an error that I have not been able to fix. If you would like to help us solve this problem and become a contributor, please do so. 
+
+
 
