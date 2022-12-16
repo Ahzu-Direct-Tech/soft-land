@@ -8,8 +8,11 @@ You can use [SoftLand](https://bootstrapmade.com/softland-bootstrap-app-landing-
 
 ## Installation
 Clone the repo, CD into the folder and run the following command:
+
 `yarn install`
+
 or 
+
 `npm install`
 
 Note:
