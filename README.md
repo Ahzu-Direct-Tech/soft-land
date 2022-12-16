@@ -6,4 +6,4 @@ You can use SoftLand as a better way to present and promote your startup mobile 
 SoftLand is created with the latest version of Bootstap. 100% responsive design and is beautifully displayed on all devices. All the files are clearly organized and it's easy to use and edit them for your needs.
 
 
-[title](https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/)
+[SoftLand Theme](https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/)
