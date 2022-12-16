@@ -12,9 +12,7 @@ You can use [SoftLand](https://bootstrapmade.com/softland-bootstrap-app-landing-
 3. Run the following command:
 
 `yarn install`
-
-or 
-
+or
 `npm install`
 
 Note:
