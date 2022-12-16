@@ -6,5 +6,10 @@ You can use [SoftLand](https://bootstrapmade.com/softland-bootstrap-app-landing-
 
 [SoftLand](https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/) is created with the latest version of Bootstap. 100% responsive design and is beautifully displayed on all devices. All the files are clearly organized and it's easy to use and edit them for your needs.
 
+## Installation
+Clone the repo, CD into the folder and run the following command:
+`yarn install`
+or 
+`npm install`
 
 
